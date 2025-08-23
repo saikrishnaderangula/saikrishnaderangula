@@ -1,10 +1,10 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Saikrishna Derangula
 
 🚀 **About Me**
-- 🌱 Currently learning: [Your tech stack / skills]
-- 💡 Interested in: AI, Web Development, Open Source
-- 🔭 Working on: [Your project name or area]
-- 📫 Reach me at: [Your email/LinkedIn/Twitter]
+- 🌱 Currently learning: AI, Web Development, and Full-Stack Development
+- 💡 Interested in: Artificial Intelligence, Open Source, and Robotics
+- 🔭 Working on: NextEra Code214 – an AI-powered adaptive learning platform
+- 📫 Reach me at: [Your Email/LinkedIn/Twitter]
 
 ---
 
@@ -17,19 +17,20 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saikrishnaderangula&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saikrishnaderangula&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saikrishnaderangula&layout=compact&theme=radical)
 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/saikrishnaderangula)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/YOUR_HANDLE)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=google-chrome)](https://your-portfolio-link.com)
 
 ---
 
-⭐️ From [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+⭐️ From [saikrishnaderangula](https://github.com/saikrishnaderangula)

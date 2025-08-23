@@ -13,7 +13,7 @@
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+<img src="https://img.shields.io/badge/%E2%98%95%20Java-B07219?style=for-the-badge" /> &nbsp;
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Web
@@ -40,7 +40,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saikrishnaderangula&show_icons=true&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saikrishnaderangula&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saikrishnaderangula&layout=compact&theme=radical)
 
 ---
 

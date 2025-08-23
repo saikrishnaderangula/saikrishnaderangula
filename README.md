@@ -40,9 +40,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saikrishnaderangula&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saikrishnaderangula&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saikrishnaderangula&layout=compact&theme=radical)
 
 ---
 
